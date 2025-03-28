@@ -1,3 +1,8 @@
+# Manual
+.metadata
+analysis_options.yaml
+ca_fe.iml
+
 # Miscellaneous
 *.class
 *.lock
@@ -6,6 +11,7 @@
 *.swp
 .buildlog/
 .history
+.idea/
 
 
 

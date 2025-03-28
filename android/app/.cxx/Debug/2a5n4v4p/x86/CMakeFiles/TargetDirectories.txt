@@ -1,0 +1,2 @@
+/home/tranh/self_ws/ca_fe/android/app/.cxx/Debug/2a5n4v4p/x86/CMakeFiles/edit_cache.dir
+/home/tranh/self_ws/ca_fe/android/app/.cxx/Debug/2a5n4v4p/x86/CMakeFiles/rebuild_cache.dir

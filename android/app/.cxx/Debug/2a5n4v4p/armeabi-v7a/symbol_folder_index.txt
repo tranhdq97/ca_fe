@@ -1,0 +1,1 @@
+/home/tranh/self_ws/ca_fe/build/app/intermediates/cxx/Debug/2a5n4v4p/obj/armeabi-v7a
